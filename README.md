@@ -9,6 +9,7 @@ This includes trendline and target line to help HR managers track progress towar
 ### Technologies Used:
 
     • Advance Excel 👨‍💻 
+![hr](https://github.com/user-attachments/assets/206629af-6859-45f9-a589-898f7291af7f)
 
     • Tableau 📊
 
